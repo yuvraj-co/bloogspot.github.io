@@ -1,0 +1,2 @@
+# bloogspot.github.io
+initial
